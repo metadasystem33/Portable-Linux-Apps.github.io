@@ -10470,6 +10470,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/spacewars.png"
   },
   {
+    "packageName": "spaghettikart",
+    "description": "Unofficial Mario Kart 64 PC game Port...",
+    "icon": "https://portable-linux-apps.github.io/icons/spaghettikart.png"
+  },
+  {
     "packageName": "spark.payments",
     "description": "Terminal app for processing DASH payments...",
     "icon": "https://portable-linux-apps.github.io/icons/spark.payments.png"
