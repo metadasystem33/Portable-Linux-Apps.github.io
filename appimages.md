@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -761,6 +761,7 @@
 | <img loading="lazy" src="icons/gpt-anywhere.png" width="48" height="48"> | [***gpt-anywhere***](apps/gpt-anywhere.md) | *Use GPT anywhere with just one shortcut.*..[ *read more* ](apps/gpt-anywhere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpt-anywhere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpt-anywhere) |
 | <img loading="lazy" src="icons/gpupad.png" width="48" height="48"> | [***gpupad***](apps/gpupad.md) | *A flexible GLSL shader editor and IDE.*..[ *read more* ](apps/gpupad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpupad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpupad) |
 | <img loading="lazy" src="icons/gqrx.png" width="48" height="48"> | [***gqrx***](apps/gqrx.md) | *Software defined radio receiver, SDR.*..[ *read more* ](apps/gqrx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gqrx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gqrx) |
+| <img loading="lazy" src="icons/gpu-screen-recorder.png" width="48" height="48"> | [***gpu-screen-recorder***](apps/gpu-screen-recorder.md) | *Unofficial, AppImage of GPU Screen Recorder*..[ *read more* ](apps/gpu-screen-recorder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpu-screen-recorder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpu-screen-recorder) |
 | <img loading="lazy" src="icons/grabscr.png" width="48" height="48"> | [***grabscr***](apps/grabscr.md) | *Yet another screenshot maker.*..[ *read more* ](apps/grabscr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grabscr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grabscr) |
 | <img loading="lazy" src="icons/graphql-playground.png" width="48" height="48"> | [***graphql-playground***](apps/graphql-playground.md) | *GraphQL IDE for better development workflows.*..[ *read more* ](apps/graphql-playground.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/graphql-playground) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/graphql-playground) |
 | <img loading="lazy" src="icons/graviton.png" width="48" height="48"> | [***graviton***](apps/graviton.md) | *A simple code editor.*..[ *read more* ](apps/graviton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/graviton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/graviton) |
