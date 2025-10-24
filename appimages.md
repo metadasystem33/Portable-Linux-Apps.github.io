@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2119** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2118** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -788,7 +788,6 @@
 | <img loading="lazy" src="icons/hashsum.png" width="48" height="48"> | [***hashsum***](apps/hashsum.md) | *A universal tool for finding file duplicates and modified files.*..[ *read more* ](apps/hashsum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hashsum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hashsum) |
 | <img loading="lazy" src="icons/hastyheroes.png" width="48" height="48"> | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ *read more* ](apps/hastyheroes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hastyheroes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hastyheroes) |
 | <img loading="lazy" src="icons/haveno-reto.png" width="48" height="48"> | [***haveno-reto***](apps/haveno-reto.md) | *Decentralized P2P exchange built on Monero and Tor.*..[ *read more* ](apps/haveno-reto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/haveno-reto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/haveno-reto) |
-| <img loading="lazy" src="icons/hayase.png" width="48" height="48"> | [***hayase***](apps/hayase.md) | *Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/hayase.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hayase) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hayase) |
 | <img loading="lazy" src="icons/hdrmerge.png" width="48" height="48"> | [***hdrmerge***](apps/hdrmerge.md) | *Merge several raw images into a single DNG raw image.*..[ *read more* ](apps/hdrmerge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hdrmerge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hdrmerge) |
 | <img loading="lazy" src="icons/heat1d.png" width="48" height="48"> | [***heat1d***](apps/heat1d.md) | *UI for testing the soilFluxex3D library, CRITERIA1D.*..[ *read more* ](apps/heat1d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heat1d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heat1d) |
 | <img loading="lazy" src="icons/heimer.png" width="48" height="48"> | [***heimer***](apps/heimer.md) | *Simple cross-platform mind map, diagram, and note-taking tool.*..[ *read more* ](apps/heimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heimer) |
