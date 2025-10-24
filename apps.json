@@ -3360,11 +3360,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat",
-    "description": "The F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
-  },
-  {
     "packageName": "fcp",
     "description": "CLI, a significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time...",
     "icon": "https://portable-linux-apps.github.io/icons/fcp.png"
