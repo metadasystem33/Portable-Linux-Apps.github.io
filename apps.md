@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2537** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2538** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -814,6 +814,7 @@
 | <img loading="lazy" src="icons/freeze.png" width="48" height="48"> | [***freeze***](apps/freeze.md) | *Generate images of code and terminal output.*..[ *read more* ](apps/freeze.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeze) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeze) |
 | <img loading="lazy" src="icons/freezer.png" width="48" height="48"> | [***freezer***](apps/freezer.md) | *An unofficial client for Deezer.*..[ *read more* ](apps/freezer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freezer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freezer) |
 | <img loading="lazy" src="icons/freshfetch.png" width="48" height="48"> | [***freshfetch***](apps/freshfetch.md) | *An alternative to Neofetch in Rust with a focus on customization.*..[ *read more* ](apps/freshfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freshfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freshfetch) |
+| <img loading="lazy" src="icons/fretboard.png" width="48" height="48"> | [***fretboard***](apps/fretboard.md) | *Unofficial. Application which helps you find your favorite guitar chord.*..[ *read more* ](apps/fretboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fretboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fretboard) |
 | <img loading="lazy" src="icons/friction.png" width="48" height="48"> | [***friction***](apps/friction.md) | *Flexible, user expandable 2D animation software.*..[ *read more* ](apps/friction.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friction) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friction) |
 | <img loading="lazy" src="icons/friture.png" width="48" height="48"> | [***friture***](apps/friture.md) | *Real-time audio visualizations, spectrum, spectrogram, etc..*..[ *read more* ](apps/friture.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friture) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friture) |
 | <img loading="lazy" src="icons/fromscratch.png" width="48" height="48"> | [***fromscratch***](apps/fromscratch.md) | *Simple autosaving scratchpad.*..[ *read more* ](apps/fromscratch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fromscratch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fromscratch) |

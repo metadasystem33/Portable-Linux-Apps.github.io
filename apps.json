@@ -3930,6 +3930,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freshfetch.png"
   },
   {
+    "packageName": "fretboard",
+    "description": "Unofficial. Application which helps you find your favorite guitar chord...",
+    "icon": "https://portable-linux-apps.github.io/icons/fretboard.png"
+  },
+  {
     "packageName": "friction",
     "description": "Flexible, user expandable 2D animation software...",
     "icon": "https://portable-linux-apps.github.io/icons/friction.png"
