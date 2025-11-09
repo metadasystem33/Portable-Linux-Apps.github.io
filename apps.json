@@ -7400,6 +7400,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/newlogic.png"
   },
   {
+    "packageName": "newsflash",
+    "description": "Unofficial. RSS reader with support for local and web RSS feed...",
+    "icon": "https://portable-linux-apps.github.io/icons/newsflash.png"
+  },
+  {
     "packageName": "newton-adventure",
     "description": "A 2D game with a twist, player can rotate gravity at 360°...",
     "icon": "https://portable-linux-apps.github.io/icons/newton-adventure.png"
