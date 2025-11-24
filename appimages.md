@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2156** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2157** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -845,6 +845,7 @@
 | <img loading="lazy" src="icons/icecat.png" width="48" height="48"> | [***icecat***](apps/icecat.md) | *GNU IceCat is the GNU version of the Firefox web browser.*..[ *read more* ](apps/icecat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat) |
 | <img loading="lazy" src="icons/icestudio.png" width="48" height="48"> | [***icestudio***](apps/icestudio.md) | *A real gamechanger in the world of Open Source FPGAs.*..[ *read more* ](apps/icestudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icestudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icestudio) |
 | <img loading="lazy" src="icons/identity.png" width="48" height="48"> | [***identity***](apps/identity.md) | *Unofficial. Compare images and videos with one another to check for differences.*..[ *read more* ](apps/identity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/identity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/identity) |
+| <img loading="lazy" src="icons/idescriptor.png" width="48" height="48"> | [***idescriptor***](apps/idescriptor.md) | *A free, open-source, and cross-platform iDevice management tool.*..[ *read more* ](apps/idescriptor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/idescriptor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/idescriptor) |
 | <img loading="lazy" src="icons/igdm.png" width="48" height="48"> | [***igdm***](apps/igdm.md) | *Desktop application for Instagram DMs.*..[ *read more* ](apps/igdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/igdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/igdm) |
 | <img loading="lazy" src="icons/iheartradio-webapp.png" width="48" height="48"> | [***iheartradio-webapp***](apps/iheartradio-webapp.md) | *Election WebApp for iHeartRadio.*..[ *read more* ](apps/iheartradio-webapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iheartradio-webapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iheartradio-webapp) |
 | <img loading="lazy" src="icons/imagemagick-clang.png" width="48" height="48"> | [***imagemagick-clang***](apps/imagemagick-clang.md) | *CLI to create, edit, compose, or convert digital images.*..[ *read more* ](apps/imagemagick-clang.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imagemagick-clang) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imagemagick-clang) |
