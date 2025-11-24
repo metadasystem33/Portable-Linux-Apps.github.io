@@ -3571,7 +3571,7 @@
   },
   {
     "packageName": "filelight",
-    "description": "Unofficial. View disk usage information. This script installs the full \"kdeutils\" suite...",
+    "description": "Unofficial. View disk usage information, by KDE...",
     "icon": "https://portable-linux-apps.github.io/icons/filelight.png"
   },
   {
