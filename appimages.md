@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2252** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2251** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1929,7 +1929,6 @@
 | <img loading="lazy" src="icons/supertuxkart-dev.png" width="48" height="48"> | [***supertuxkart-dev***](apps/supertuxkart-dev.md) | *Free kart racing game focused on Fun! Pre-release.*..[ *read more* ](apps/supertuxkart-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart-dev) |
 | <img loading="lazy" src="icons/surrealist.png" width="48" height="48"> | [***surrealist***](apps/surrealist.md) | *Surrealist is the ultimate way to visually manage your SurrealDB database.*..[ *read more* ](apps/surrealist.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/surrealist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/surrealist) |
 | <img loading="lazy" src="icons/suwayomi.png" width="48" height="48"> | [***suwayomi***](apps/suwayomi.md) | *A rewrite of Tachiyomi for the Desktop.*..[ *read more* ](apps/suwayomi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/suwayomi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/suwayomi) |
-| <img loading="lazy" src="icons/suyu.png" width="48" height="48"> | [***suyu***](apps/suyu.md) | *Open-source, Nintendo Switch emulator, continuation of yuzu.*..[ *read more* ](apps/suyu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/suyu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/suyu) |
 | <img loading="lazy" src="icons/svelte-electron.png" width="48" height="48"> | [***svelte-electron***](apps/svelte-electron.md) | *Create desktop apps with this Svelte boilerplate.*..[ *read more* ](apps/svelte-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/svelte-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/svelte-electron) |
 | <img loading="lazy" src="icons/svgwall.png" width="48" height="48"> | [***svgwall***](apps/svgwall.md) | *SVG Wallpaper Utility for Xorg.*..[ *read more* ](apps/svgwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/svgwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/svgwall) |
 | <img loading="lazy" src="icons/sview.png" width="48" height="48"> | [***sview***](apps/sview.md) | *3D Stereoscopic media player for videos and images.*..[ *read more* ](apps/sview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sview) |
