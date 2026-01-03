@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2658** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2657** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1796,7 +1796,6 @@
 | <img loading="lazy" src="icons/photopealoader.png" width="48" height="48"> | [***photopealoader***](apps/photopealoader.md) | *Photopea desktop app that loads local files and plugins.*..[ *read more* ](apps/photopealoader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photopealoader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photopealoader) |
 | <img loading="lazy" src="icons/photoqt.png" width="48" height="48"> | [***photoqt***](apps/photoqt.md) | *View and manage images.*..[ *read more* ](apps/photoqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoqt) |
 | <img loading="lazy" src="icons/photoquick.png" width="48" height="48"> | [***photoquick***](apps/photoquick.md) | *Light-weight image viewer, resize, collage, filters....*..[ *read more* ](apps/photoquick.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoquick) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoquick) |
-| <img loading="lazy" src="icons/phototeleport.png" width="48" height="48"> | [***phototeleport***](apps/phototeleport.md) | *Upload your photos to multiple services at once.*..[ *read more* ](apps/phototeleport.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phototeleport) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phototeleport) |
 | <img loading="lazy" src="icons/phreshplayer.png" width="48" height="48"> | [***phreshplayer***](apps/phreshplayer.md) | *Electron based media player app.*..[ *read more* ](apps/phreshplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phreshplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phreshplayer) |
 | <img loading="lazy" src="icons/pia.png" width="48" height="48"> | [***pia***](apps/pia.md) | *Version Portable Outil PIA.*..[ *read more* ](apps/pia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pia) |
 | <img loading="lazy" src="icons/picacg-qt.png" width="48" height="48"> | [***picacg-qt***](apps/picacg-qt.md) | *PicACG Comic PC Client For Linux.*..[ *read more* ](apps/picacg-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picacg-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picacg-qt) |
