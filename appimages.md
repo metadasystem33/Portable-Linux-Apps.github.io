@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2251** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2252** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -34,6 +34,7 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/0ad.png" width="48" height="48"> | [***0ad***](apps/0ad.md) | *Unofficial. FOSS historical Real Time Strategy, RTS game of ancient warfare.*..[ *read more* ](apps/0ad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/0ad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/0ad) |
 | <img loading="lazy" src="icons/0ad-prerelease.png" width="48" height="48"> | [***0ad-prerelease***](apps/0ad-prerelease.md) | *Unofficial. FOSS historical Real Time Strategy, RTS game of ancient warfare (Pre-release).*..[ *read more* ](apps/0ad-prerelease.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/0ad-prerelease) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/0ad-prerelease) |
+| <img loading="lazy" src="icons/12to11.png" width="48" height="48"> | [***12to11***](apps/12to11.md) | *Unofficial, tool for running Wayland applications on an X server.*..[ *read more* ](apps/12to11.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/12to11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/12to11) |
 | <img loading="lazy" src="icons/2ship.png" width="48" height="48"> | [***2ship***](apps/2ship.md) | *2 Ship 2 Harkinian game.*..[ *read more* ](apps/2ship.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/2ship) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/2ship) |
 | <img loading="lazy" src="icons/3d-puzzles.png" width="48" height="48"> | [***3d-puzzles***](apps/3d-puzzles.md) | *3D-Puzzles are Rubik, Dogic and Dogic12.*..[ *read more* ](apps/3d-puzzles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/3d-puzzles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/3d-puzzles) |
 | <img loading="lazy" src="icons/432hz-player.png" width="48" height="48"> | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz, Audio Player.*..[ *read more* ](apps/432hz-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/432hz-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/432hz-player) |
