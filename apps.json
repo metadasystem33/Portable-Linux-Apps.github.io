@@ -830,6 +830,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/aya.png"
   },
   {
+    "packageName": "ayandict",
+    "description": "Simple yet advanced multi-lingual cross-platform offline dictionary for desktop, using Qt and Go...",
+    "icon": "https://portable-linux-apps.github.io/icons/ayandict.png"
+  },
+  {
     "packageName": "azahar-enhanced",
     "description": "Unofficial AppImage of Azahar, with optimized builds for modern cpus...",
     "icon": "https://portable-linux-apps.github.io/icons/azahar-enhanced.png"
@@ -1768,6 +1773,11 @@
     "packageName": "cherrytree",
     "description": "A hierarchical note taking application...",
     "icon": "https://portable-linux-apps.github.io/icons/cherrytree.png"
+  },
+  {
+    "packageName": "chess-tui",
+    "description": "Play chess from your terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/chess-tui.png"
   },
   {
     "packageName": "chessmd",
@@ -3743,6 +3753,16 @@
     "packageName": "file-to-c",
     "description": "Tool for generating a C header from a spir-v binary file...",
     "icon": "https://portable-linux-apps.github.io/icons/file-to-c.png"
+  },
+  {
+    "packageName": "filebrowser",
+    "description": "Web File Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/filebrowser.png"
+  },
+  {
+    "packageName": "filebrowser-quantum",
+    "description": "Web File Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/filebrowser-quantum.png"
   },
   {
     "packageName": "filelight",
