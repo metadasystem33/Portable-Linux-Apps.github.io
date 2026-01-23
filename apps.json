@@ -7670,6 +7670,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/musescore.png"
   },
   {
+    "packageName": "music-assistant",
+    "description": "The desktop companion app for Music Assistant...",
+    "icon": "https://portable-linux-apps.github.io/icons/music-assistant.png"
+  },
+  {
     "packageName": "music-blocks",
     "description": ".Exploring Math, Music, and Programming...",
     "icon": "https://portable-linux-apps.github.io/icons/music-blocks.png"
