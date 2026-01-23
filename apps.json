@@ -381,7 +381,7 @@
   },
   {
     "packageName": "animeko",
-    "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform...",
+    "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering...",
     "icon": "https://portable-linux-apps.github.io/icons/animeko.png"
   },
   {
@@ -441,7 +441,7 @@
   },
   {
     "packageName": "any-code",
-    "description": "Any Code 是一个为 AI 驱动的代码开发工作流量身打造的专业桌面应用，支持 Claude Code CLI、OpenAI Codex 和 Google Gemini CLI 三大 AI 引擎。...",
+    "description": "Claude Code CLI, OpenAI Codex, and Google Gemini CLI...",
     "icon": "https://portable-linux-apps.github.io/icons/any-code.png"
   },
   {
@@ -1086,7 +1086,7 @@
   },
   {
     "packageName": "bili-liveluckdraw",
-    "description": "一个B站直播抽奖工具，通过获取弹幕关键词进行抽奖，使用Electron + React + Vite构建...",
+    "description": "A Bilibili live stream lottery tool that draws winners based on keywords retrieved from the chat comments. It is built using Electron + React + Vite...",
     "icon": "https://portable-linux-apps.github.io/icons/bili-liveluckdraw.png"
   },
   {
@@ -2561,7 +2561,7 @@
   },
   {
     "packageName": "daisy",
-    "description": "美观易用且无广告的漫画和轻小说客户端, 同时支持。(动漫之家)...",
+    "description": "A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home)...",
     "icon": "https://portable-linux-apps.github.io/icons/daisy.png"
   },
   {
@@ -5021,7 +5021,7 @@
   },
   {
     "packageName": "gptfusion",
-    "description": "GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台...",
+    "description": "GPT Aggregator is a cross-platform chat tool that aggregates multiple GPT chatbots. It supports multiple free GPT images, allows for custom image import, and supports multiple platforms such as PoE and Wenxin Yiyan...",
     "icon": "https://portable-linux-apps.github.io/icons/gptfusion.png"
   },
   {
