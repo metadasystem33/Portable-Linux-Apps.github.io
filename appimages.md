@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2518** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2519** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1499,6 +1499,7 @@
 | <img loading="lazy" src="icons/ommpfritt.png" width="48" height="48"> | [***ommpfritt***](apps/ommpfritt.md) | *Semantic, procedural, non-destructive vector modelling.*..[ *read more* ](apps/ommpfritt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ommpfritt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ommpfritt) |
 | <img loading="lazy" src="icons/omniget.png" width="48" height="48"> | [***omniget***](apps/omniget.md) | *Media downloader from various websites.*..[ *read more* ](apps/omniget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omniget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omniget) |
 | <img loading="lazy" src="icons/omnipull.png" width="48" height="48"> | [***omnipull***](apps/omnipull.md) | *Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager.*..[ *read more* ](apps/omnipull.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omnipull) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omnipull) |
+| <img loading="lazy" src="icons/omniroute.png" width="48" height="48"> | [***omniroute***](apps/omniroute.md) | *an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.*..[ *read more* ](apps/omniroute.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omniroute) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omniroute) |
 | <img loading="lazy" src="icons/omnispeak.png" width="48" height="48"> | [***omnispeak***](apps/omnispeak.md) | *Re-implementation of "Commander Keen in Goodbye Galaxy".*..[ *read more* ](apps/omnispeak.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omnispeak) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omnispeak) |
 | <img loading="lazy" src="icons/one-gpt.png" width="48" height="48"> | [***one-gpt***](apps/one-gpt.md) | *Aggregate ChatGPT official version, Wenxin Yiyan, Poe, chatchat.*..[ *read more* ](apps/one-gpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/one-gpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/one-gpt) |
 | <img loading="lazy" src="icons/oneanime.png" width="48" height="48"> | [***oneanime***](apps/oneanime.md) | *A clean, ad-free anime viewing app. A third-party client for Anime1 with subtitles and a Material You-compliant interface.*..[ *read more* ](apps/oneanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oneanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oneanime) |
