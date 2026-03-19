@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2519** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2520** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1351,6 +1351,7 @@
 | <img loading="lazy" src="icons/monoline.png" width="48" height="48"> | [***monoline***](apps/monoline.md) | *Your personal micro journal.*..[ *read more* ](apps/monoline.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/monoline) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/monoline) |
 | <img loading="lazy" src="icons/mood-fi.png" width="48" height="48"> | [***mood-fi***](apps/mood-fi.md) | *App with 30+ lo-fi live streams between 8 different lo-fi types.*..[ *read more* ](apps/mood-fi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mood-fi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mood-fi) |
 | <img loading="lazy" src="icons/moolticute.png" width="48" height="48"> | [***moolticute***](apps/moolticute.md) | *Mooltipass crossplatform daemon/tools.*..[ *read more* ](apps/moolticute.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moolticute) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moolticute) |
+| <img loading="lazy" src="icons/moon-lander.png" width="48" height="48"> | [***moon-lander***](apps/moon-lander.md) | *Moon Lander is a 2D game of gravity.  Land your ship on the lading pad.*..[ *read more* ](apps/moon-lander.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moon-lander) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moon-lander) |
 | <img loading="lazy" src="icons/moondeck-buddy.png" width="48" height="48"> | [***moondeck-buddy***](apps/moondeck-buddy.md) | *A server-side part of the MoonDeck plugin for the SteamDeck.*..[ *read more* ](apps/moondeck-buddy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moondeck-buddy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moondeck-buddy) |
 | <img loading="lazy" src="icons/moonlight.png" width="48" height="48"> | [***moonlight***](apps/moonlight.md) | *Stream games from your NVIDIA GameStream-enabled PC.*..[ *read more* ](apps/moonlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moonlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moonlight) |
 | <img loading="lazy" src="icons/moonplayer.png" width="48" height="48"> | [***moonplayer***](apps/moonplayer.md) | *AIO video player to play Youtube, Bilibili... and local videos.*..[ *read more* ](apps/moonplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moonplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moonplayer) |
