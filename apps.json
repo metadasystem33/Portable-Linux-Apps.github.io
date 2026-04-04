@@ -2365,6 +2365,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/coolercontrold.png"
   },
   {
+    "packageName": "copyq",
+    "description": "Unofficial, an advanced clipboard manager with powerful editing and scripting features...",
+    "icon": "https://portable-linux-apps.github.io/icons/copyq.png"
+  },
+  {
     "packageName": "copytranslator",
     "description": "Foreign language reading and translation assistant...",
     "icon": "https://portable-linux-apps.github.io/icons/copytranslator.png"
@@ -4715,6 +4720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaiasky.png"
   },
   {
+    "packageName": "galculator",
+    "description": "A GTK 2 / GTK 3 based scientific calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/galculator.png"
+  },
+  {
     "packageName": "gale",
     "description": "A modern mod manager for Thunderstore...",
     "icon": "https://portable-linux-apps.github.io/icons/gale.png"
@@ -4768,6 +4778,11 @@
     "packageName": "gaucho",
     "description": "Minimalist task launcher..",
     "icon": "https://portable-linux-apps.github.io/icons/gaucho.png"
+  },
+  {
+    "packageName": "gcstar",
+    "description": "Unofficial, collection manager written in Perl and based on Gtk...",
+    "icon": "https://portable-linux-apps.github.io/icons/gcstar.png"
   },
   {
     "packageName": "gdesktopsuite",
@@ -9730,6 +9745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pcsx2.png"
   },
   {
+    "packageName": "pdf-arranger",
+    "description": "Unofficial, a small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages...",
+    "icon": "https://portable-linux-apps.github.io/icons/pdf-arranger.png"
+  },
+  {
     "packageName": "pdf-diff",
     "description": "A CLI tool for visualizing differences between two pdf files...",
     "icon": "https://portable-linux-apps.github.io/icons/pdf-diff.png"
@@ -9738,6 +9758,11 @@
     "packageName": "pdf-sync",
     "description": "PDF Reader in JavaScript with Sync...",
     "icon": "https://portable-linux-apps.github.io/icons/pdf-sync.png"
+  },
+  {
+    "packageName": "pdf-tricks",
+    "description": "Unofficial, a simple, efficient application for small manipulations in PDF files...",
+    "icon": "https://portable-linux-apps.github.io/icons/pdf-tricks.png"
   },
   {
     "packageName": "pdf2htmlex",
