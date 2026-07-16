@@ -18012,6 +18012,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tura",
+    "description": "Tura is an open-source, local-first AI coding agent that works with existing AI subscriptions and coding tools...",
+    "icon": "https://portable-linux-apps.github.io/icons/tura.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "turbowarp",
     "description": "Scratch mod with a compiler to run projects faster...",
     "icon": "https://portable-linux-apps.github.io/icons/turbowarp.png",
