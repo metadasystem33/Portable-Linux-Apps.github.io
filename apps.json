@@ -2586,6 +2586,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "chiri",
+    "description": "Cross-platform CalDAV task management app...",
+    "icon": "https://portable-linux-apps.github.io/icons/chiri.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "chmod",
     "description": "Change file mode bits. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/chmod.png",
