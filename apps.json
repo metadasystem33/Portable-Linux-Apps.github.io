@@ -13578,6 +13578,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pixeldrain-cli",
+    "description": "A simple command-line client for uploading files and directories to Pixeldrain...",
+    "icon": "https://portable-linux-apps.github.io/icons/pixeldrain-cli.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "pixelhopper",
     "description": "Animated GIF player for Linux (X11)...",
     "icon": "https://portable-linux-apps.github.io/icons/pixelhopper.png",
