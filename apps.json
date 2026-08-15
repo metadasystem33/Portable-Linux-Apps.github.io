@@ -6900,6 +6900,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "go2tv",
+    "description": "Cast media files to Smart TVs and Chromecast devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/go2tv.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "goanime",
     "description": "A TUI tool to browse, stream, and download anime in English and Portuguese...",
     "icon": "https://portable-linux-apps.github.io/icons/goanime.png",
@@ -12448,6 +12454,12 @@
     "description": "Unofficial AppImage of OpenGothic...",
     "icon": "https://portable-linux-apps.github.io/icons/opengothic.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "openhuman",
+    "description": "Your personal AI super intelligence - a brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/openhuman.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "openhv",
