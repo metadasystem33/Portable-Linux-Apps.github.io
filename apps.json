@@ -3744,6 +3744,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "dashbeam",
+    "description": "Peer-to-peer encrypted files and folders transfer tool to anywhere in the world - any format, no accounts, no restrictions...",
+    "icon": "https://portable-linux-apps.github.io/icons/dashbeam.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "dashy-app",
     "description": "Dashboard creation application...",
     "icon": "https://portable-linux-apps.github.io/icons/dashy-app.png",
