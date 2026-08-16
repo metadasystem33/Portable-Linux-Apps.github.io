@@ -10344,6 +10344,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "master-pdf-editor",
+    "description": "Master PDF Editor is the optimal solution for editing PDF files in Linux. It enables you to create, edit, view, encrypt, sign and print interactive PDF documents...",
+    "icon": "https://portable-linux-apps.github.io/icons/master-pdf-editor.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "masterkey",
     "description": "Unofficial AppImage of Master Key...",
     "icon": "https://portable-linux-apps.github.io/icons/masterkey.png",
