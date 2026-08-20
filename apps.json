@@ -15456,6 +15456,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "rstudio",
+    "description": "RStudio is an integrated development environment, IDE for R...",
+    "icon": "https://portable-linux-apps.github.io/icons/rstudio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "rtneuron",
     "description": "Framework for geometrically detailed neuron simulations...",
     "icon": "https://portable-linux-apps.github.io/icons/rtneuron.png",
