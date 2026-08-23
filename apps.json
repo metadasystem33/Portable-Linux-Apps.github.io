@@ -13722,6 +13722,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pla-site-tool",
+    "description": "Portable-Linux-Apps site generator...",
+    "icon": "https://portable-linux-apps.github.io/icons/pla-site-tool.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "plagpatrol",
     "description": "Detecting documents tampered to bypass plagiarism detectors...",
     "icon": "https://portable-linux-apps.github.io/icons/plagpatrol.png",
