@@ -19080,12 +19080,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "v2ray-desktop",
-    "description": "V2Ray GUI client for Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/v2ray-desktop.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "valeronoi",
     "description": "Companion app for Valetudo for generating WiFi heat maps...",
     "icon": "https://portable-linux-apps.github.io/icons/valeronoi.png",
