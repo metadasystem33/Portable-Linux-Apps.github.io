@@ -12894,6 +12894,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openbitfun",
+    "description": "OpenBitFun is an open-source desktop workspace for AI agents. It brings together a fast, reliable Rust Agent Runtime, a powerful, flexible Agent Harness, and a polished desktop experience to make working with agents straightforward...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openbitfun.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "openblok",
     "description": "A customizable falling block puzzle game like tetris...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openblok.png",
