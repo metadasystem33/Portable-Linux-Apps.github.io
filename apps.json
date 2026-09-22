@@ -198,6 +198,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "aeroftp",
+    "description": "Cross-platform modern desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust (Tauri) + React...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aeroftp.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "afetch",
     "description": "A CLI system information tool written in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/afetch.png",
@@ -21381,6 +21387,12 @@
     "packageName": "yakit-legacy",
     "description": "Cyber Security ALL-IN-ONE Platform (legacy)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yakit-legacy.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "yakuda-connect",
+    "description": "A sleek and intuitive GUI for WiVRn — Linux VR streaming made easy...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yakuda-connect.png",
     "arch": ["x86_64"]
   },
   {
