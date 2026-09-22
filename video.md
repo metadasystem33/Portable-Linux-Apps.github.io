@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **189** programs for this category.
+#### Here are listed **190** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -107,6 +107,7 @@
 | <img loading="lazy" src="icons/alvr.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***alvr***](apps/alvr.md) | *Stream VR games from your PC to your headset via Wi-Fi.*..[ *read more* ](apps/alvr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alvr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alvr) |
 | <img loading="lazy" src="icons/amber.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***amber***](apps/amber.md) | *Amber Video Editor — free open-source non-linear video editor.*..[ *read more* ](apps/amber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amber) |
 | <img loading="lazy" src="icons/animos.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***animos***](apps/animos.md) | *Anime-streaming desktop application without any ads.*..[ *read more* ](apps/animos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animos) |
+| <img loading="lazy" src="icons/appify.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***appify***](apps/appify.md) | *A streamlined automation tool that turns web apps into optimized desktop experiences in seconds.*..[ *read more* ](apps/appify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appify) |
 | <img loading="lazy" src="icons/arcdlp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***arcdlp***](apps/arcdlp.md) | *Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites.*..[ *read more* ](apps/arcdlp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcdlp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcdlp) |
 | <img loading="lazy" src="icons/audiorelay.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***audiorelay***](apps/audiorelay.md) | *Stream audio between your devices. Turn your phone into a microphone or speakers for PC.*..[ *read more* ](apps/audiorelay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiorelay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiorelay) |
 | <img loading="lazy" src="icons/avidemux.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***avidemux***](apps/avidemux.md) | *Multiplatform Video Editor.*..[ *read more* ](apps/avidemux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avidemux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avidemux) |
