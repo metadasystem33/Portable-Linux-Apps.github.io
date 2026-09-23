@@ -20844,12 +20844,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "wine32-cli",
-    "description": "Unofficial. WINE AppImage for 32-bit CLI Windows applications...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wine32-cli.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "wine32-deploy",
     "description": "Tool for creating AppImages for 32-bit Microsoft Windows apps...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wine32-deploy.png",
