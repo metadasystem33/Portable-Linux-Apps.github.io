@@ -15216,6 +15216,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "qcadesigner-e",
+    "description": "Extended QCADesigner with estimation of energy dissipation....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qcadesigner-e.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "qdiskinfo",
     "description": "QDiskInfo is a frontend for smartctl. It provides a user experience similar to CrystalDiskInfo...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qdiskinfo.png",
