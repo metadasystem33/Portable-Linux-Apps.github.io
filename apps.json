@@ -120,6 +120,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "absotui",
+    "description": "\"ABS\" (Audiobookshelf) + \"TUI\" (terminal user interface) — read it like \"absolutely. A fun, fast, and intuitive TUI client for Audiobookshelf — browse, play, and sync your audiobooks & podcasts, all in your terminal...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/absotui.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "acestep-cpp-ui",
     "description": "AceStep-cpp UI, 100% local and free Suno alternative powered by acestep-cpp. Native C++ bundle for local AI music generation with 0% python...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/acestep-cpp-ui.png",
@@ -9630,9 +9636,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "kopia",
+    "packageName": "kopia-ui",
     "description": "Cross-platform backup tool...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kopia.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kopia-ui.png",
     "arch": ["x86_64"]
   },
   {
@@ -17820,6 +17826,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "sshpilot",
+    "description": "User-friendly, cross-platform SSH connection manager...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sshpilot.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ssplot",
     "description": "A simple plotting utility for dynamical systems...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ssplot.png",
@@ -21717,7 +21729,7 @@
     "packageName": "zalo",
     "description": "Unofficial. Community-driven port of the Zalo desktop application for Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zalo.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zap",
