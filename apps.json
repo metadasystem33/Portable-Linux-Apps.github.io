@@ -12870,6 +12870,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "omniget",
+    "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omniget.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "omnipull",
     "description": "Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omnipull.png",
