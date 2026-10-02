@@ -5448,6 +5448,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "compare-all",
+    "description": "text, tables, hex, pictures, JSON/XML structure. Pure Rust, no telemetry...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/compare-all.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "compass",
     "description": "Air Traffic Surveillance DataBase...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/compass.png",
