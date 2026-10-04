@@ -9132,12 +9132,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "desktop-app-generate-quiz",
-    "description": "AI-powered desktop quiz generator — create quizzes from PDF, DOCX, images, YouTube videos, or plain text using Google Gemini...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/desktop-app-generate-quiz.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "desktop-browserbase",
     "description": "Chrome in your desktop, powered by Browserbase...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/desktop-browserbase.png",
@@ -24783,6 +24777,12 @@
     "packageName": "nekobox",
     "description": "NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nekobox.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "neo",
+    "description": "A distraction-free word processor for authors, by a wannabe author...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neo.png",
     "arch": ["x86_64","aarch64"]
   },
   {
