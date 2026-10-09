@@ -438,12 +438,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "aegisubqt",
-    "description": "Next-generation ASS/SSA subtitle editor modernized with Qt 6 Quick and C++20, featuring QRHI GPU-accelerated spectrogram, video playback, visual typography, and Automation 4 Lua...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aegisubqt.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "aero-sync",
     "description": "AeroSync is a high-speed cross-platform P2P file transfer app for Windows and Android, enabling fast, secure, and reliable local file sharing over Wi-Fi, hotspot, and LAN without cloud dependency...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aero-sync.png",
@@ -5760,6 +5754,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "cadcraft",
+    "description": "Computer-aided design and drafting, an open-source CAD app written in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cadcraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "cadence",
     "description": "synced lyrics, 3D holographic frames, album theming...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cadence.png",
@@ -10461,6 +10461,12 @@
     "packageName": "deckboard",
     "description": "Control your PC with your phone in easy way possible...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/deckboard.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "deckcraft",
+    "description": "Presentations and slide shows, an open-source presentation app written in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/deckcraft.png",
     "arch": ["x86_64"]
   },
   {
@@ -17004,6 +17010,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "github-stars-manager",
+    "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/github-stars-manager.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "gitify",
     "description": "GitHub notifications on your menu bar...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gitify.png",
@@ -17997,6 +18009,12 @@
     "packageName": "gridcoin-research",
     "description": "POS-based cryptocurrency...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gridcoin-research.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "gridcraft",
+    "description": "An open-source spreadsheet app, written in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gridcraft.png",
     "arch": ["x86_64"]
   },
   {
@@ -22059,6 +22077,12 @@
     "packageName": "kiriki",
     "description": "A dice game. This is part of \"kdegames\"...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kiriki.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "kiro",
+    "description": "Unofficial, Community provided amazon kiro AppImage - stable release...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kiro.png",
     "arch": ["x86_64"]
   },
   {
@@ -33768,6 +33792,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pdfcraft",
+    "description": "read, organize, combine, split and secure...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pdfcraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "pdfoxjs",
     "description": "View and edit PDF documents with customisable VIM keyboard shortcuts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pdfoxjs.png",
@@ -35824,12 +35854,6 @@
     "description": "Open-source local print agent that enables stable silent printing from web applications...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/print-bridge.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "printcraft",
-    "description": "read, organize, combine, split and secure...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printcraft.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "printenv",
@@ -42207,6 +42231,12 @@
     "packageName": "soundcloud-rpc",
     "description": "A SoundCloud client with Discord Rich Presence and AdBlock...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/soundcloud-rpc.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "soundcraft",
+    "description": "An open-source digital audio workstation, written in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/soundcraft.png",
     "arch": ["x86_64"]
   },
   {
@@ -50212,6 +50242,12 @@
     "description": "Simple, fast & open-source PDF editor...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/word-sys-pdf-editor.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "wordcraft",
+    "description": "An open-source word processor, written in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wordcraft.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "work-review",
