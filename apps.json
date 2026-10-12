@@ -18432,12 +18432,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "haoxiaoguan",
-    "description": "Hao Xiaoguan is a cross-platform desktop application built on Electron that aggregates various upstream AI providers (such as Kiro, native Codex/ChatGPT, and third-party proxies) into unified, local endpoints compatible with OpenAI, Anthropic, and Gemini APIs. It features multi-account pooling, quota management, one-click client integration, and usage analytics dashboards, enabling stable and controlled access to AI services within tools like Claude Code, Codex, and Gemini CLI...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/haoxiaoguan.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "hapee",
     "description": "Best cross-platform downloader ever...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hapee.png",
@@ -20004,12 +19998,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "inkdos",
-    "description": "A lightweight local-first productivity suite for focused DOCX, XLS/XLSX, and PPTX workflows...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/inkdos.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "inkdown",
     "description": "A WYSIWYG Markdown editor, improve reading and editing experience and generate your Markdown files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/inkdown.png",
@@ -21070,12 +21058,6 @@
     "description": "🔍 A fast, native desktop GUI for browsing and querying large JSON files — supports jq, JSONPath, JMESPath, and JSON Pointer. Built in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jsonquery-gui.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "jsonstudio",
-    "description": "A fast, modern desktop JSON app built for daily development. The all-in-one workspace for every JSON task, designed to redefine your workflow efficiency...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jsonstudio.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "jubeat-chart-viewer",
