@@ -28524,12 +28524,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mxterm",
-    "description": "A lightweight and easy-to-use terminal connection tool...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mxterm.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "my-brain-is-full-crew-ui",
     "description": "A team of 8+ AI agents and 14 specialized skills that manage your Obsidian vault so your brain doesn't have to...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/my-brain-is-full-crew-ui.png",
